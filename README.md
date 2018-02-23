@@ -4,4 +4,6 @@ I strongly suggest you don't use this as I can't guarantee I'll keep it up to da
 
 You want the `patch_header_imports` branch so switch out for this in your package.json
 
-`"react-native-ble-plx": "JofArnold/react-native-ble-plx-expo#patch_header_imports"`
+`"react-native-ble-plx": "https://github.com/JofArnold/react-native-ble-plx-expo/archive/X.Y.Z.tar.gz"`
+
+Where `X.Y.Z` is whatever the appropriate tag for you is.
